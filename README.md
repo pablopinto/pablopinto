@@ -5,12 +5,12 @@ I'm a Frontend developer with my ♥ in [Spring](https://spring.io/).
 
 
 <a href="https://www.linkedin.com/in/pablofcopinto/">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Pablo Pinto LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/nobackground_me.jpg" width="240px" />
+<img align="right" alt="GIF" src="assets/nobackground_me.png" width="240px" />
 
 <br />
 
