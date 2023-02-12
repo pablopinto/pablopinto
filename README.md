@@ -32,4 +32,4 @@ I'm a Frontend developer with my ♥ in [Spring](https://spring.io/).
 
 ---
 
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablofcopinto&show_icons=true&hide_border=true)
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablopinto&show_icons=true&hide_border=true)
