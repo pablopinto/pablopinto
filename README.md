@@ -10,10 +10,6 @@ I'm a BackEnd developer with my ♥ in [Spring](https://spring.io/).
 
 <br />
 
-<img align="right" alt="GIF" src="assets/nobackground_me.png" width="240px" />
-
-<br />
-
 ## What i'm up to
 
 - 🔭 I’m currently working @ [Indra](https://www.indracompany.com/es/minsait).
